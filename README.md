@@ -12,4 +12,10 @@
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matek10000&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mateusz-dybas/)!
+
+📧 **Contact Me:**
+- 📫 [LinkedIn](https://www.linkedin.com/in/mateusz-dyba%C5%9B-bb109b2a3/)
+- 📧 [Email](mailto:mateusz.dybas10@gmail.com)
+
+
+Feel free to reach out! ❤️
