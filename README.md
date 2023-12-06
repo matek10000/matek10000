@@ -4,6 +4,7 @@
 - 🎓 Second-year Applied Computer Science student
 - 🚀 Specializing in C# and .NET development
 - 🌐 Solid understanding of JavaScript and CSS
+- 📊 Familiar with databases, proficient in SQL
 - 📷 Keen interest in creating videos
 - 🚗 Enthusiast in automotive engineering and cars
 
