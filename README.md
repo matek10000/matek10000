@@ -4,7 +4,7 @@
 
 ## 🧑‍🎓 I am a second-year Applied Computer Science student.
 
-## Specializing in C# and .NET development. Additionally, I have a solid understanding of fundamental concepts in JavaScript and CSS.
+## 👨‍💻 Specializing in: C# and .NET development. Additionally, I have a solid understanding of fundamental concepts in JavaScript and CSS.
 
 ## 📷🏎️ I have a keen interest in creating videos and a passion for automotive engineering and cars.
 
