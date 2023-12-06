@@ -1,13 +1,13 @@
-<center>
+# Hi, I'm Mateusz! 👋
 
-## Hi, Mateusz here! 👋
+💻 **About Me:**
+- 🎓 Second-year Applied Computer Science student
+- 🚀 Specializing in C# and .NET development
+- 🌐 Solid understanding of JavaScript and CSS
+- 📷 Keen interest in creating videos
+- 🚗 Enthusiast in automotive engineering and cars
 
-## 🧑‍🎓 I am a second-year Applied Computer Science student.
-
-## 👨‍💻 Specializing in: C# and .NET development. Additionally, I have a solid understanding of fundamental concepts in JavaScript and CSS.
-
-## 📷🏎️ I have a keen interest in creating videos and a passion for automotive engineering and cars.
-
+📊 **GitHub Stats:**
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matek10000&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-</center>
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mateusz-dybas/)!
