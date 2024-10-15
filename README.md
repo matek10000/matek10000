@@ -1,7 +1,7 @@
 # Hi, I'm Mateusz! 👋
 
 💻 **About Me:**
-- 🎓 Second-year Applied Computer Science student
+- 🎓 Third-year Applied Computer Science student
 - 🚀 Specializing in C# and .NET development
 - 🌐 Solid understanding of JavaScript and CSS
 - 📊 Familiar with databases, proficient in SQL
