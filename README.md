@@ -2,9 +2,9 @@
 
 💻 **About Me:**
 - 🎓 Third-year Applied Computer Science student
-- 🚀 Specializing in C# and .NET development
-- 🌐 Solid understanding of JavaScript and CSS
-- 📊 Familiar with databases, proficient in SQL
+- 🚀 Specializing in Node.js and .NET
+- 🌐 Solid understanding of HTML5, CSS, JS and SQL
+- 📊 Familiar with Unity
 - 📷 Keen interest in creating videos
 - 🚗 Enthusiast in automotive engineering and cars
 
