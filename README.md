@@ -9,7 +9,7 @@
   - **Databases**: SQL, Firebase
   - **Version Control**: Git
 - 🎮 Basic knowledge of Unity for game development
-- 📦 Experienced with tools like VS Code, Visual Studio 2022, and SSMS
+- 📦 Experienced with tools like VS Code, Visual Studio 2022, SSMS, Adobe Premiere Pro
 - 📷 Passionate about creating videos
 - 🚗 Enthusiast in automotive engineering and cars
 
