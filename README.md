@@ -1,24 +1,38 @@
 # Hi, I'm Mateusz! 👋
 
 💻 **About Me:**
-- 🎓 Third-year Applied Computer Science student in Cracow
-- 🚀 Specializing in modern web and backend technologies
-- 🌐 Proficient in:
-  - **Frontend**: React.js, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
-  - **Backend**: Node.js, .NET
-  - **Databases**: SQL, Firebase
-  - **Version Control**: Git
-- 🎮 Basic knowledge of Unity for game development
-- 📦 Experienced with tools like VS Code, Visual Studio 2022, SSMS, Adobe Premiere Pro
-- 📷 Passionate about creating videos
-- 🚗 Enthusiast in automotive engineering and cars
+- 🎓 Computer Science Engineer (Applied Computer Science, Cracow)
+- 🚀 Specializing in building modern web applications (frontend-focused)
+- ⚡ Main stack: **React + Vite + SQL**
+- 🌐 Experience in developing responsive web apps for **desktop & mobile**
+- 🔥 Strong focus on clean UI, UX and performance
 
-📊 **GitHub Stats:**
+🛠 **Tech Stack:**
+- **Frontend:** React, Vite, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Backend:** .NET, Node.js
+- **Databases:** SQL, Firebase
+- **Cloud & Services:** Google Cloud, Firebase
+- **Tools:** Git, VS Code, Visual Studio, SSMS
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matek10000&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+📈 **Additional Skills:**
+- 📱 Building full web applications (frontend + backend integration)
+- 🎯 UI/UX design with focus on conversion and modern design standards
+- 📊 Basic marketing knowledge & social media management
+- 🎬 Video editing & content creation
+
+🏎 **Beyond Tech:**
+- 🏁 Karting driver
+- 🚗 Automotive enthusiast
+- 🎥 Passionate about videography & creating engaging content
+
+📂 **Projects:**
+- Multiple private and commercial projects  
+- Portfolio available on request → contact me via email
 
 📧 **Contact Me:**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mateusz-dyba%C5%9B-bb109b2a3/)
 - 📧 [Email](mailto:mateusz.dybas10@gmail.com)
 
-Feel free to connect or collaborate! ❤️
+---
+
+🚀 Open to collaboration, freelance projects and new opportunities
