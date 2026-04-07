@@ -3,7 +3,7 @@
 💻 **About Me:**
 - 🎓 Computer Science Engineer (Applied Computer Science, Cracow)
 - 🚀 Specializing in building modern web applications (frontend-focused)
-- ⚡ Main stack: **React + Vite + SQL**
+- ⚡ Main stack: **React + Vue + Vite + SQL**
 - 🌐 Experience in developing responsive web apps for **desktop & mobile**
 - 🔥 Strong focus on clean UI, UX and performance
 
